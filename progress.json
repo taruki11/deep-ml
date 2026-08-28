@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:23:34.698Z",
+  "generated_at": "2026-10-02T14:30:55.291Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -605,6 +605,97 @@
       "last_pushed_at": "2026-10-02T14:23:32.612Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-28T02:37:52.820Z",
+      "last_pushed_at": "2026-08-28T02:37:52.820Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-08-28T02:45:50.100Z",
+      "last_pushed_at": "2026-08-28T02:45:50.100Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-28T02:58:56.108Z",
+      "last_pushed_at": "2026-08-28T02:58:56.108Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-28T03:25:58.882Z",
+      "last_pushed_at": "2026-08-28T03:25:58.882Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-28T06:14:07.126Z",
+      "last_pushed_at": "2026-08-28T06:14:07.126Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-28T06:20:02.512Z",
+      "last_pushed_at": "2026-08-28T06:20:02.512Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-28T06:29:09.284Z",
+      "last_pushed_at": "2026-08-28T06:29:09.284Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
