@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:30:55.291Z",
+  "generated_at": "2026-10-02T14:30:58.292Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -696,6 +696,78 @@
       "last_pushed_at": "2026-08-28T06:29:09.284Z",
       "language": "python",
       "lines": 15
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-14T14:53:32.541Z",
+      "last_pushed_at": "2026-09-14T14:53:32.541Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-09-14T15:22:08.892Z",
+      "last_pushed_at": "2026-09-14T15:22:08.892Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-14T15:33:54.553Z",
+      "last_pushed_at": "2026-09-14T15:33:54.553Z"
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-14T15:42:33.737Z",
+      "last_pushed_at": "2026-09-14T15:42:33.737Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-14T15:50:38.758Z",
+      "last_pushed_at": "2026-09-14T15:50:38.758Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-14T16:04:15.695Z",
+      "last_pushed_at": "2026-09-14T16:04:15.695Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 49 problems · 2 labs · 3 math
+**60** solved · 52 problems · 2 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,12 +19,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-10-01 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-28 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-09-30 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-14 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-10-01 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-01 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-01 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-09-30 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-01 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-02 | [solution](problems/1070-greedy-autoregressive-text-generation) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-10-01 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-02 | [solution](problems/0375-learned-positional-embeddings) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-28 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -35,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-10-01 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-09-30 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-10-01 | [solution](problems/0944-sliding-window-text-dataset-generator) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-14 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-01 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-09-30 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-28 | [solution](problems/0002-transpose-of-a-matrix) |
@@ -74,8 +77,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-14 | [solution](math/0024-information-theory-entropy) |
+| [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-14 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-01 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-01 | [solution](math/0003-neural-network-derivatives) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-14 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
 
