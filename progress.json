@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:18:52.699Z",
+  "generated_at": "2026-09-30T16:22:11.625Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-09-30T16:18:48.060Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:953": {
+      "kind": "problem",
+      "id": "953",
+      "title": "Calculate Vocabulary Size from Token List",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/953",
+      "path": "problems/0953-calculate-vocabulary-size-from-token-list",
+      "first_solved_at": "2026-09-30T16:22:06.907Z",
+      "last_pushed_at": "2026-09-30T16:22:06.907Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
