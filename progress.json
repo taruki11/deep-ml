@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:27:26.976Z",
+  "generated_at": "2026-10-01T14:27:40.030Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -166,7 +166,7 @@
       "url": "https://www.deep-ml.com/problems/1080",
       "path": "problems/1080-generate-input-target-batches-for-language-model-training",
       "first_solved_at": "2026-10-01T14:27:24.957Z",
-      "last_pushed_at": "2026-10-01T14:27:24.957Z",
+      "last_pushed_at": "2026-10-01T14:27:38.496Z",
       "language": "python",
       "lines": 9
     }
