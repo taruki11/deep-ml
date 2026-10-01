@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:00:34.361Z",
+  "generated_at": "2026-10-01T16:12:01.126Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -234,6 +234,19 @@
       "last_pushed_at": "2026-10-01T16:00:32.554Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:988": {
+      "kind": "problem",
+      "id": "988",
+      "title": "Train Bigram Language Model as a Neural Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/988",
+      "path": "problems/0988-train-bigram-language-model-as-a-neural-network",
+      "first_solved_at": "2026-10-01T16:11:58.850Z",
+      "last_pushed_at": "2026-10-01T16:11:58.850Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
