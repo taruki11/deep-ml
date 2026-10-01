@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:10:27.839Z",
+  "generated_at": "2026-10-01T15:26:25.145Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-10-01T15:10:26.231Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:983": {
+      "kind": "problem",
+      "id": "983",
+      "title": "Build Bigram Count Matrix from Words",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/983",
+      "path": "problems/0983-build-bigram-count-matrix-from-words",
+      "first_solved_at": "2026-10-01T15:26:22.989Z",
+      "last_pushed_at": "2026-10-01T15:26:22.989Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
