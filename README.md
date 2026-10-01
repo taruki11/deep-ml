@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 20 problems · 1 labs · 0 math
+**22** solved · 20 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-10-01 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-01 | [solution](math/0035-matrix-calculus-identities) |
 
 ---
 
