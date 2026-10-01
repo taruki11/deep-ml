@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:45:07.831Z",
+  "generated_at": "2026-10-01T10:48:52.981Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -114,9 +114,9 @@
       "url": "https://www.deep-ml.com/problems/945",
       "path": "problems/0945-token-embedding-lookup-table",
       "first_solved_at": "2026-10-01T10:45:06.819Z",
-      "last_pushed_at": "2026-10-01T10:45:06.819Z",
+      "last_pushed_at": "2026-10-01T10:48:51.266Z",
       "language": "python",
-      "lines": 13
+      "lines": 9
     }
   }
 }
