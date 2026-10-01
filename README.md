@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 22 problems · 1 labs · 3 math
+**27** solved · 23 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-01 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
+| [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-10-01 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Average Negative Log-Likelihood for Bigram Model](https://www.deep-ml.com/problems/986) | easy | 2026-10-01 | [solution](problems/0986-average-negative-log-likelihood-for-bigram-model) |
 | [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-10-01 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
 | [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-10-01 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
