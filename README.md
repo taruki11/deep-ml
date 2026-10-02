@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 56 problems · 2 labs · 8 math
+**67** solved · 56 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-01 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-01 | [solution](math/0003-neural-network-derivatives) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-14 | [solution](math/0032-softmax-and-cross-entropy) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-02 | [solution](math/0025-kl-divergence) |
 
 ---
 
