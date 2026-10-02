@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:31:00.529Z",
+  "generated_at": "2026-10-02T14:31:03.188Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -706,7 +706,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-14T14:53:32.541Z",
-      "last_pushed_at": "2026-09-14T14:53:32.541Z"
+      "last_pushed_at": "2026-10-02T14:31:03.187Z"
     },
     "math:24": {
       "kind": "math",
@@ -717,7 +717,7 @@
       "url": "https://www.deep-ml.com/math-problems/24",
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-14T15:22:08.892Z",
-      "last_pushed_at": "2026-09-14T15:22:08.892Z"
+      "last_pushed_at": "2026-10-02T14:31:03.187Z"
     },
     "math:38": {
       "kind": "math",
@@ -728,7 +728,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-09-14T15:33:54.553Z",
-      "last_pushed_at": "2026-09-14T15:33:54.553Z"
+      "last_pushed_at": "2026-10-02T14:31:03.187Z"
     },
     "problem:23": {
       "kind": "problem",
@@ -804,7 +804,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-15T17:34:20.555Z",
-      "last_pushed_at": "2026-09-15T17:34:20.555Z"
+      "last_pushed_at": "2026-10-02T14:31:03.187Z"
     },
     "math:5": {
       "kind": "math",
@@ -815,7 +815,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-15T17:37:16.963Z",
-      "last_pushed_at": "2026-09-15T17:37:16.963Z"
+      "last_pushed_at": "2026-10-02T14:31:03.187Z"
     },
     "problem:940": {
       "kind": "problem",
