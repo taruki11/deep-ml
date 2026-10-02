@@ -1,32 +1,35 @@
-import numpy as np
+import torch
+import torch.nn.functional as F
 from typing import Tuple
 
-def compute_qkv(X: np.ndarray, W_q: np.ndarray, W_k: np.ndarray, W_v: np.ndarray) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+def compute_qkv(X: torch.Tensor, W_q: torch.Tensor, W_k: torch.Tensor, W_v: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor]:
     Q = X @ W_q
     K = X @ W_k
     V = X @ W_v
     return Q, K, V
 
-def self_attention(Q: np.ndarray, K: np.ndarray, V: np.ndarray) -> np.ndarray:
+def self_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor) -> torch.Tensor:
     d_k = K.shape[-1]
-    scores = (Q @ K.T) / np.sqrt(d_k)
-    scores_max = np.max(scores, axis=-1, keepdims=True)
-    exp_scores = np.exp(scores - scores_max)
-    weights = exp_scores / np.sum(exp_scores, axis=-1, keepdims=True)
+
+    scores = (Q @ K.transpose(-2, -1)) / (d_k ** 0.5)
     
+    weights = F.softmax(scores, dim=-1)
     output = weights @ V
     return output
 
-def multi_head_attention(Q: np.ndarray, K: np.ndarray, V: np.ndarray, n_heads: int) -> np.ndarray:
+def multi_head_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor, n_heads: int) -> torch.Tensor:
     seq_len, d_model = Q.shape
     if d_model % n_heads != 0:
         raise ValueError(f"d_model ({d_model}) 必须能被 n_heads ({n_heads}) 整除")
-    q_heads = np.split(Q, n_heads, axis=-1)
-    k_heads = np.split(K, n_heads, axis=-1)
-    v_heads = np.split(V, n_heads, axis=-1)
+    
+    q_heads = torch.chunk(Q, n_heads, dim=-1)
+    k_heads = torch.chunk(K, n_heads, dim=-1)
+    v_heads = torch.chunk(V, n_heads, dim=-1)
+    
     head_outputs = [
         self_attention(q_i, k_i, v_i) 
         for q_i, k_i, v_i in zip(q_heads, k_heads, v_heads)
     ]
-    output = np.concatenate(head_outputs, axis=-1)
+    
+    output = torch.cat(head_outputs, dim=-1)
     return output
