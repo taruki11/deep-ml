@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 38 problems · 2 labs · 3 math
+**44** solved · 39 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-02 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-02 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-01 | [solution](problems/0991-sample-from-mlp-character-language-model) |
+| [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-02 | [solution](problems/0378-temperature-sampling) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-10-01 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-02 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |
