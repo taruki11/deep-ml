@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:49:40.215Z",
+  "generated_at": "2026-10-02T14:53:07.144Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -853,6 +853,19 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-02T14:49:36.130Z",
       "last_pushed_at": "2026-10-02T14:49:36.130Z"
+    },
+    "problem:381": {
+      "kind": "problem",
+      "id": "381",
+      "title": "Rotary Positional Embeddings (RoPE)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/381",
+      "path": "problems/0381-rotary-positional-embeddings-rope",
+      "first_solved_at": "2026-10-02T14:53:05.604Z",
+      "last_pushed_at": "2026-10-02T14:53:05.604Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
