@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 32 problems · 2 labs · 3 math
+**38** solved · 33 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-09-30 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-01 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-10-01 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
+| [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-02 | [solution](problems/0375-learned-positional-embeddings) |
 | [Pad and Truncate Tokenized Sequences](https://www.deep-ml.com/problems/1059) | easy | 2026-10-01 | [solution](problems/1059-pad-and-truncate-tokenized-sequences) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-10-01 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-10-01 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
