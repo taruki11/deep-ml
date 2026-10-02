@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:11:07.315Z",
+  "generated_at": "2026-10-02T12:17:45.492Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -501,6 +501,19 @@
       "last_pushed_at": "2026-10-02T12:11:06.128Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:178": {
+      "kind": "problem",
+      "id": "178",
+      "title": "Implement Position-wise Feed-Forward Block with Residual and Dropout",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/178",
+      "path": "problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout",
+      "first_solved_at": "2026-10-02T12:17:44.183Z",
+      "last_pushed_at": "2026-10-02T12:17:44.183Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
