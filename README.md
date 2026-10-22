@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 62 problems · 2 labs · 12 math
+**77** solved · 63 problems · 2 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-09-30 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-01 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-02 | [solution](problems/1070-greedy-autoregressive-text-generation) |
+| [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-10-22 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-10-01 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-02 | [solution](problems/0375-learned-positional-embeddings) |

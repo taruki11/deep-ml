@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:25:29.990Z",
+  "generated_at": "2026-10-22T11:27:46.504Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -964,6 +964,19 @@
       "path": "math/0042-margins-and-soft-margin-svms",
       "first_solved_at": "2026-10-22T11:25:26.746Z",
       "last_pushed_at": "2026-10-22T11:25:26.746Z"
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-10-22T11:27:43.428Z",
+      "last_pushed_at": "2026-10-22T11:27:43.428Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
