@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:46:56.249Z",
+  "generated_at": "2026-10-22T13:55:10.887Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1303,6 +1303,19 @@
       "last_pushed_at": "2026-10-22T13:46:52.461Z",
       "language": "python",
       "lines": 123
+    },
+    "problem:1382": {
+      "kind": "problem",
+      "id": "1382",
+      "title": "Naive and Seasonal-Naive Forecast Baselines",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1382",
+      "path": "problems/1382-naive-and-seasonal-naive-forecast-baselines",
+      "first_solved_at": "2026-10-22T13:55:07.168Z",
+      "last_pushed_at": "2026-10-22T13:55:07.168Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
