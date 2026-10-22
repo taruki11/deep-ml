@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:55:10.887Z",
+  "generated_at": "2026-10-22T13:56:35.861Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1316,6 +1316,19 @@
       "last_pushed_at": "2026-10-22T13:55:07.168Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1353": {
+      "kind": "problem",
+      "id": "1353",
+      "title": "Differencing and a Rolling-Statistics Stationarity Check",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1353",
+      "path": "problems/1353-differencing-and-a-rolling-statistics-stationarity-check",
+      "first_solved_at": "2026-10-22T13:56:35.066Z",
+      "last_pushed_at": "2026-10-22T13:56:35.066Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
