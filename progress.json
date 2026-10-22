@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:45:01.074Z",
+  "generated_at": "2026-10-22T13:46:56.249Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1290,6 +1290,19 @@
       "last_pushed_at": "2026-10-22T13:44:57.494Z",
       "language": "python",
       "lines": 75
+    },
+    "problem:1248": {
+      "kind": "problem",
+      "id": "1248",
+      "title": "Sentiment Classifier: fit/predict with TF-IDF Features",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1248",
+      "path": "problems/1248-sentiment-classifier-fit-predict-with-tf-idf-features",
+      "first_solved_at": "2026-10-22T13:46:52.461Z",
+      "last_pushed_at": "2026-10-22T13:46:52.461Z",
+      "language": "python",
+      "lines": 123
     }
   }
 }

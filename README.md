@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 82 problems · 2 labs · 18 math
+**103** solved · 83 problems · 2 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-22 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-10-02 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-01 | [solution](problems/0991-sample-from-mlp-character-language-model) |
+| [Sentiment Classifier: fit/predict with TF-IDF Features](https://www.deep-ml.com/problems/1248) | medium | 2026-10-22 | [solution](problems/1248-sentiment-classifier-fit-predict-with-tf-idf-features) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-22 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Spectral Clustering via Graph Laplacian](https://www.deep-ml.com/problems/824) | medium | 2026-10-22 | [solution](problems/0824-spectral-clustering-via-graph-laplacian) |
 | [Step Functions, Cubic Splines and the Natural Spline Basis](https://www.deep-ml.com/problems/1418) | medium | 2026-10-22 | [solution](problems/1418-step-functions-cubic-splines-and-the-natural-spline-basis) |
