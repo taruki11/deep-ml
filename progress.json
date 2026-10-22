@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:28:37.978Z",
+  "generated_at": "2026-10-22T11:29:35.591Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -990,6 +990,19 @@
       "last_pushed_at": "2026-10-22T11:28:34.889Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:814": {
+      "kind": "problem",
+      "id": "814",
+      "title": "SVM Dual Formulation via Coordinate Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/814",
+      "path": "problems/0814-svm-dual-formulation-via-coordinate-descent",
+      "first_solved_at": "2026-10-22T11:29:32.498Z",
+      "last_pushed_at": "2026-10-22T11:29:32.498Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
