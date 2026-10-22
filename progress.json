@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:08:15.501Z",
+  "generated_at": "2026-10-22T11:09:03.089Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -940,6 +940,19 @@
       "last_pushed_at": "2026-10-22T11:08:12.437Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:346": {
+      "kind": "problem",
+      "id": "346",
+      "title": "Implement Stacking Classifier",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/346",
+      "path": "problems/0346-implement-stacking-classifier",
+      "first_solved_at": "2026-10-22T11:08:59.983Z",
+      "last_pushed_at": "2026-10-22T11:08:59.983Z",
+      "language": "python",
+      "lines": 71
     }
   }
 }
