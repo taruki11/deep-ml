@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 76 problems · 2 labs · 16 math
+**95** solved · 76 problems · 2 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The K-Means Objective and Lloyd's Algorithm](https://www.deep-ml.com/math-problems/120) | medium | 2026-10-22 | [solution](math/0120-the-k-means-objective-and-lloyd-s-algorithm) |
 | [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-22 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
 | [Boosting: Learning Slowly from Residuals](https://www.deep-ml.com/math-problems/115) | hard | 2026-10-22 | [solution](math/0115-boosting-learning-slowly-from-residuals) |
+| [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-22 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-02 | [solution](math/0025-kl-divergence) |
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-10-22 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 
