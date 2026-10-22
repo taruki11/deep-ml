@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:43:53.929Z",
+  "generated_at": "2026-10-22T13:45:01.074Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1277,6 +1277,19 @@
       "last_pushed_at": "2026-10-22T13:43:50.403Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:1408": {
+      "kind": "problem",
+      "id": "1408",
+      "title": "Ranking Metrics: NDCG@k, MRR and MAP@k",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1408",
+      "path": "problems/1408-ranking-metrics-ndcg-k-mrr-and-map-k",
+      "first_solved_at": "2026-10-22T13:44:57.494Z",
+      "last_pushed_at": "2026-10-22T13:44:57.494Z",
+      "language": "python",
+      "lines": 75
     }
   }
 }

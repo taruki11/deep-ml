@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 81 problems · 2 labs · 18 math
+**102** solved · 82 problems · 2 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-02 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-02 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
 | [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-22 | [solution](problems/0807-random-forest-fit-from-scratch) |
+| [Ranking Metrics: NDCG@k, MRR and MAP@k](https://www.deep-ml.com/problems/1408) | medium | 2026-10-22 | [solution](problems/1408-ranking-metrics-ndcg-k-mrr-and-map-k) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-22 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-10-02 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-01 | [solution](problems/0991-sample-from-mlp-character-language-model) |
