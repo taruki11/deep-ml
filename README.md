@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 68 problems · 2 labs · 14 math
+**85** solved · 69 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-10-01 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-10-22 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-02 | [solution](problems/0491-build-a-transformer-encoder-layer) |
+| [Generalized Additive Model by Backfitting](https://www.deep-ml.com/problems/1420) | hard | 2026-10-22 | [solution](problems/1420-generalized-additive-model-by-backfitting) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-22 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-10-22 | [solution](problems/0346-implement-stacking-classifier) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:14:03.830Z",
+  "generated_at": "2026-10-22T12:15:09.703Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1064,6 +1064,19 @@
       "last_pushed_at": "2026-10-22T12:14:00.641Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1420": {
+      "kind": "problem",
+      "id": "1420",
+      "title": "Generalized Additive Model by Backfitting",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1420",
+      "path": "problems/1420-generalized-additive-model-by-backfitting",
+      "first_solved_at": "2026-10-22T12:15:06.409Z",
+      "last_pushed_at": "2026-10-22T12:15:06.409Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }
