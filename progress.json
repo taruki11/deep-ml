@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:12:07.230Z",
+  "generated_at": "2026-10-22T12:12:52.500Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1038,6 +1038,19 @@
       "path": "math/0111-local-regression-and-generalized-additive-models",
       "first_solved_at": "2026-10-22T12:12:04.013Z",
       "last_pushed_at": "2026-10-22T12:12:04.013Z"
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-10-22T12:12:49.311Z",
+      "last_pushed_at": "2026-10-22T12:12:49.311Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
