@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 59 problems · 2 labs · 11 math
+**73** solved · 60 problems · 2 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Greedy Streaming Decoder with KV Cache](https://www.deep-ml.com/problems/1055) | medium | 2026-10-02 | [solution](problems/1055-greedy-streaming-decoder-with-kv-cache) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-10-02 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Batched Causal Self-Attention](https://www.deep-ml.com/problems/957) | medium | 2026-10-02 | [solution](problems/0957-implement-batched-causal-self-attention) |
+| [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-22 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-10-02 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-02 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-02 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
