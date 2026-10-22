@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:30:24.421Z",
+  "generated_at": "2026-10-22T12:10:21.259Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1016,6 +1016,17 @@
       "last_pushed_at": "2026-10-22T11:30:21.335Z",
       "language": "python",
       "lines": 50
+    },
+    "math:96": {
+      "kind": "math",
+      "id": "96",
+      "title": "Cubic and Natural Splines: Knots and Degrees of Freedom",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/96",
+      "path": "math/0096-cubic-and-natural-splines-knots-and-degrees-of-freedom",
+      "first_solved_at": "2026-10-22T12:10:17.945Z",
+      "last_pushed_at": "2026-10-22T12:10:17.945Z"
     }
   }
 }
