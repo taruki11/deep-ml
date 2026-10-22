@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 57 problems · 2 labs · 11 math
+**71** solved · 58 problems · 2 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-02 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-10-01 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-02 | [solution](problems/0491-build-a-transformer-encoder-layer) |
+| [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-22 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-02 | [solution](problems/0085-positional-encoding-calculator) |
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-10-02 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |

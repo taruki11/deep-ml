@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:51:29.523Z",
+  "generated_at": "2026-10-22T11:01:08.527Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -888,6 +888,19 @@
       "path": "math/0115-boosting-learning-slowly-from-residuals",
       "first_solved_at": "2026-10-22T10:51:26.488Z",
       "last_pushed_at": "2026-10-22T10:51:26.488Z"
+    },
+    "problem:307": {
+      "kind": "problem",
+      "id": "307",
+      "title": "Implement Bagging Classifier from Scratch",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/307",
+      "path": "problems/0307-implement-bagging-classifier-from-scratch",
+      "first_solved_at": "2026-10-22T11:01:05.310Z",
+      "last_pushed_at": "2026-10-22T11:01:05.310Z",
+      "language": "python",
+      "lines": 96
     }
   }
 }
