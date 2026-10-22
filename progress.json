@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:02:23.525Z",
+  "generated_at": "2026-10-22T13:03:01.843Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1177,6 +1177,19 @@
       "last_pushed_at": "2026-10-22T13:02:20.195Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:366": {
+      "kind": "problem",
+      "id": "366",
+      "title": "Implement Gaussian Mixture Model (GMM) M-step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/366",
+      "path": "problems/0366-implement-gaussian-mixture-model-gmm-m-step",
+      "first_solved_at": "2026-10-22T13:02:57.932Z",
+      "last_pushed_at": "2026-10-22T13:02:57.932Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
