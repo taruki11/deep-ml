@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:18:36.280Z",
+  "generated_at": "2026-10-22T13:20:41.757Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1212,6 +1212,19 @@
       "path": "math/0049-pca-via-covariance-eigendecomposition",
       "first_solved_at": "2026-10-22T13:18:32.915Z",
       "last_pushed_at": "2026-10-22T13:18:32.915Z"
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-10-22T13:20:38.239Z",
+      "last_pushed_at": "2026-10-22T13:20:38.239Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
