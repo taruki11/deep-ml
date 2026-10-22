@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 71 problems · 2 labs · 16 math
+**90** solved · 72 problems · 2 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-22 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-10-02 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-01 | [solution](problems/0991-sample-from-mlp-character-language-model) |
+| [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-22 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Step Functions, Cubic Splines and the Natural Spline Basis](https://www.deep-ml.com/problems/1418) | medium | 2026-10-22 | [solution](problems/1418-step-functions-cubic-splines-and-the-natural-spline-basis) |
 | [SVM Dual Formulation via Coordinate Descent](https://www.deep-ml.com/problems/814) | medium | 2026-10-22 | [solution](problems/0814-svm-dual-formulation-via-coordinate-descent) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-02 | [solution](problems/0378-temperature-sampling) |
