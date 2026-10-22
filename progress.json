@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:12:52.500Z",
+  "generated_at": "2026-10-22T12:14:03.830Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1051,6 +1051,19 @@
       "last_pushed_at": "2026-10-22T12:12:49.311Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1418": {
+      "kind": "problem",
+      "id": "1418",
+      "title": "Step Functions, Cubic Splines and the Natural Spline Basis",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1418",
+      "path": "problems/1418-step-functions-cubic-splines-and-the-natural-spline-basis",
+      "first_solved_at": "2026-10-22T12:14:00.641Z",
+      "last_pushed_at": "2026-10-22T12:14:00.641Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
