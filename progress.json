@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:57:53.053Z",
+  "generated_at": "2026-10-22T13:01:47.699Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1151,6 +1151,19 @@
       "last_pushed_at": "2026-10-22T12:57:49.532Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:824": {
+      "kind": "problem",
+      "id": "824",
+      "title": "Spectral Clustering via Graph Laplacian",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/824",
+      "path": "problems/0824-spectral-clustering-via-graph-laplacian",
+      "first_solved_at": "2026-10-22T13:01:44.306Z",
+      "last_pushed_at": "2026-10-22T13:01:44.306Z",
+      "language": "python",
+      "lines": 92
     }
   }
 }
