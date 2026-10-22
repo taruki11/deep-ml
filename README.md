@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**71** solved · 58 problems · 2 labs · 11 math
+**72** solved · 59 problems · 2 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-10-01 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-02 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-02 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
+| [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-22 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-10-02 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-01 | [solution](problems/0991-sample-from-mlp-character-language-model) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-02 | [solution](problems/0378-temperature-sampling) |
