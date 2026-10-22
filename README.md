@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**95** solved · 76 problems · 2 labs · 17 math
+**96** solved · 76 problems · 2 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -109,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-10-22 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-01 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-01 | [solution](math/0003-neural-network-derivatives) |
+| [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-22 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-14 | [solution](math/0032-softmax-and-cross-entropy) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-10-22 | [solution](math/0041-the-em-algorithm) |
 | [The K-Means Objective and Lloyd's Algorithm](https://www.deep-ml.com/math-problems/120) | medium | 2026-10-22 | [solution](math/0120-the-k-means-objective-and-lloyd-s-algorithm) |
