@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:10:21.259Z",
+  "generated_at": "2026-10-22T12:12:07.230Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1027,6 +1027,17 @@
       "path": "math/0096-cubic-and-natural-splines-knots-and-degrees-of-freedom",
       "first_solved_at": "2026-10-22T12:10:17.945Z",
       "last_pushed_at": "2026-10-22T12:10:17.945Z"
+    },
+    "math:111": {
+      "kind": "math",
+      "id": "111",
+      "title": "Local Regression and Generalized Additive Models",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/111",
+      "path": "math/0111-local-regression-and-generalized-additive-models",
+      "first_solved_at": "2026-10-22T12:12:04.013Z",
+      "last_pushed_at": "2026-10-22T12:12:04.013Z"
     }
   }
 }
