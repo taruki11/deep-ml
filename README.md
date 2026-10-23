@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**106** solved · 85 problems · 3 labs · 18 math
+**107** solved · 85 problems · 4 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-10-23 | [solution](labs/0023-train-a-binary-classifier) |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-10-01 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-10-02 | [solution](labs/0010-design-your-own-attention-mechanism) |
+| [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-10-23 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 
 ## Math
 
