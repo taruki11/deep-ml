@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:18:50.283Z",
+  "generated_at": "2026-10-25T13:24:25.535Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1366,6 +1366,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-25T13:18:49.588Z",
       "last_pushed_at": "2026-10-25T13:18:49.588Z"
+    },
+    "lab:28": {
+      "kind": "lab",
+      "id": "28",
+      "title": "Few-Shot Classification with Cluster-Based Label Propagation",
+      "difficulty": "medium",
+      "category": "Clustering",
+      "url": "https://www.deep-ml.com/labs/28",
+      "path": "labs/0028-few-shot-classification-with-cluster-based-label-propagation",
+      "first_solved_at": "2026-10-25T13:24:24.277Z",
+      "last_pushed_at": "2026-10-25T13:24:24.277Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
