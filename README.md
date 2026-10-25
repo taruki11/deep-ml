@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**107** solved · 85 problems · 4 labs · 18 math
+**108** solved · 85 problems · 4 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -124,6 +124,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-14 | [solution](math/0032-softmax-and-cross-entropy) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-10-22 | [solution](math/0041-the-em-algorithm) |
 | [The K-Means Objective and Lloyd's Algorithm](https://www.deep-ml.com/math-problems/120) | medium | 2026-10-22 | [solution](math/0120-the-k-means-objective-and-lloyd-s-algorithm) |
+| [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-25 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-22 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
 | [Boosting: Learning Slowly from Residuals](https://www.deep-ml.com/math-problems/115) | hard | 2026-10-22 | [solution](math/0115-boosting-learning-slowly-from-residuals) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-22 | [solution](math/0016-eigendecomposition-and-svd) |
