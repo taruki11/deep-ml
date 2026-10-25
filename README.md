@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**111** solved · 86 problems · 6 labs · 19 math
+**112** solved · 87 problems · 6 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-01 | [solution](problems/0991-sample-from-mlp-character-language-model) |
 | [Sentiment Classifier: fit/predict with TF-IDF Features](https://www.deep-ml.com/problems/1248) | medium | 2026-10-22 | [solution](problems/1248-sentiment-classifier-fit-predict-with-tf-idf-features) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-22 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-25 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Spectral Clustering via Graph Laplacian](https://www.deep-ml.com/problems/824) | medium | 2026-10-22 | [solution](problems/0824-spectral-clustering-via-graph-laplacian) |
 | [Step Functions, Cubic Splines and the Natural Spline Basis](https://www.deep-ml.com/problems/1418) | medium | 2026-10-22 | [solution](problems/1418-step-functions-cubic-splines-and-the-natural-spline-basis) |
 | [SVM Dual Formulation via Coordinate Descent](https://www.deep-ml.com/problems/814) | medium | 2026-10-22 | [solution](problems/0814-svm-dual-formulation-via-coordinate-descent) |
