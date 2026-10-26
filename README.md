@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 95 problems · 7 labs · 20 math
+**123** solved · 95 problems · 8 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -119,6 +119,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-10-25 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-10-23 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-10-25 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-10-26 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 
 ## Math
 
