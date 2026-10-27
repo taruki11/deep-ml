@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 106 problems · 10 labs · 21 math
+**138** solved · 107 problems · 10 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-28 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-10-27 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Differencing and a Rolling-Statistics Stationarity Check](https://www.deep-ml.com/problems/1353) | medium | 2026-10-22 | [solution](problems/1353-differencing-and-a-rolling-statistics-stationarity-check) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-27 | [solution](problems/0151-dropout-layer) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-15 | [solution](problems/0205-entropy-cross-entropy) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-22 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-10-27 | [solution](problems/0197-gradient-clipping-by-global-norm) |
