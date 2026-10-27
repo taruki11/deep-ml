@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:48:48.391Z",
+  "generated_at": "2026-10-27T08:57:01.275Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1687,6 +1687,19 @@
       "last_pushed_at": "2026-10-27T08:48:44.990Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:169": {
+      "kind": "problem",
+      "id": "169",
+      "title": "Implement AdamW Optimizer Step",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/169",
+      "path": "problems/0169-implement-adamw-optimizer-step",
+      "first_solved_at": "2026-10-27T08:56:58.152Z",
+      "last_pushed_at": "2026-10-27T08:56:58.152Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
