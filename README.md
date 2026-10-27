@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 109 problems · 10 labs · 21 math
+**141** solved · 110 problems · 10 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-22 | [solution](problems/0017-k-means-clustering) |
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-10-22 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-28 | [solution](problems/0007-matrix-transformation) |
+| [Mixed-Precision Forward with `autocast`](https://www.deep-ml.com/problems/911) | medium | 2026-10-27 | [solution](problems/0911-mixed-precision-forward-with-autocast) |
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-10-01 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-02 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-02 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
