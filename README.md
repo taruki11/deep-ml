@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 103 problems · 10 labs · 21 math
+**135** solved · 104 problems · 10 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-01 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-01 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-28 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-10-27 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Differencing and a Rolling-Statistics Stationarity Check](https://www.deep-ml.com/problems/1353) | medium | 2026-10-22 | [solution](problems/1353-differencing-and-a-rolling-statistics-stationarity-check) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-15 | [solution](problems/0205-entropy-cross-entropy) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-22 | [solution](problems/0032-generate-sorted-polynomial-features) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:57:01.275Z",
+  "generated_at": "2026-10-27T09:07:02.112Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1700,6 +1700,19 @@
       "last_pushed_at": "2026-10-27T08:56:58.152Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:155": {
+      "kind": "problem",
+      "id": "155",
+      "title": "CosineAnnealingLR Learning Rate Scheduler",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/155",
+      "path": "problems/0155-cosineannealinglr-learning-rate-scheduler",
+      "first_solved_at": "2026-10-27T09:06:59.221Z",
+      "last_pushed_at": "2026-10-27T09:06:59.221Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
