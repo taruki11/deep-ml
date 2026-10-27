@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**139** solved · 108 problems · 10 labs · 21 math
+**140** solved · 109 problems · 10 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-27 | [solution](problems/0151-dropout-layer) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-15 | [solution](problems/0205-entropy-cross-entropy) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-22 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-27 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-10-27 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Greedy Streaming Decoder with KV Cache](https://www.deep-ml.com/problems/1055) | medium | 2026-10-02 | [solution](problems/1055-greedy-streaming-decoder-with-kv-cache) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-10-02 | [solution](problems/0905-implement-a-transformer-encoder-block) |
