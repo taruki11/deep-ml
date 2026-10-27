@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**148** solved · 116 problems · 10 labs · 22 math
+**149** solved · 117 problems · 10 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -110,6 +110,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-22 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-27 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-25 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-10-27 | [solution](problems/0241-sobel-edge-detection) |
 | [Spectral Clustering via Graph Laplacian](https://www.deep-ml.com/problems/824) | medium | 2026-10-22 | [solution](problems/0824-spectral-clustering-via-graph-laplacian) |
 | [Step Functions, Cubic Splines and the Natural Spline Basis](https://www.deep-ml.com/problems/1418) | medium | 2026-10-22 | [solution](problems/1418-step-functions-cubic-splines-and-the-natural-spline-basis) |
 | [SVM Dual Formulation via Coordinate Descent](https://www.deep-ml.com/problems/814) | medium | 2026-10-22 | [solution](problems/0814-svm-dual-formulation-via-coordinate-descent) |

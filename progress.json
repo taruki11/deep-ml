@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:26:42.176Z",
+  "generated_at": "2026-10-27T12:43:27.885Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1880,6 +1880,19 @@
       "last_pushed_at": "2026-10-27T12:26:41.483Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:241": {
+      "kind": "problem",
+      "id": "241",
+      "title": "Sobel Edge Detection",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/241",
+      "path": "problems/0241-sobel-edge-detection",
+      "first_solved_at": "2026-10-27T12:43:27.195Z",
+      "last_pushed_at": "2026-10-27T12:43:27.195Z",
+      "language": "python",
+      "lines": 93
     }
   }
 }
