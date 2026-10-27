@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**138** solved · 107 problems · 10 labs · 21 math
+**139** solved · 108 problems · 10 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -94,6 +94,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-10-01 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-02 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-02 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
+| [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-27 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-22 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [Ranking Metrics: NDCG@k, MRR and MAP@k](https://www.deep-ml.com/problems/1408) | medium | 2026-10-22 | [solution](problems/1408-ranking-metrics-ndcg-k-mrr-and-map-k) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-22 | [solution](problems/0353-reconstruction-error-from-pca) |
