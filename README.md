@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 99 problems · 10 labs · 20 math
+**130** solved · 100 problems · 10 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -101,6 +101,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-02 | [solution](problems/0378-temperature-sampling) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-02 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-10-01 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
+| [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-10-27 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-10-22 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-02 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Generalized Additive Model by Backfitting](https://www.deep-ml.com/problems/1420) | hard | 2026-10-22 | [solution](problems/1420-generalized-additive-model-by-backfitting) |
