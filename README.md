@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**130** solved · 100 problems · 10 labs · 20 math
+**131** solved · 100 problems · 10 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -134,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-15 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-15 | [solution](math/0005-gradient-descent-updates) |
+| [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-27 | [solution](math/0132-adam-bias-correction) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Cubic and Natural Splines: Knots and Degrees of Freedom](https://www.deep-ml.com/math-problems/96) | medium | 2026-10-22 | [solution](math/0096-cubic-and-natural-splines-knots-and-degrees-of-freedom) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-14 | [solution](math/0024-information-theory-entropy) |
