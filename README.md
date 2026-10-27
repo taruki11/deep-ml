@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 96 problems · 10 labs · 20 math
+**127** solved · 97 problems · 10 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-10-01 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-01 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-25 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create a Float Tensor with Tinygrad](https://www.deep-ml.com/problems/889) | easy | 2026-10-27 | [solution](problems/0889-create-a-float-tensor-with-tinygrad) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-10-25 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-01 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-09-30 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
