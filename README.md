@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**125** solved · 96 problems · 9 labs · 20 math
+**126** solved · 96 problems · 10 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -113,6 +113,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-27 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-10-23 | [solution](labs/0023-train-a-binary-classifier) |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-10-01 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-10-26 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
