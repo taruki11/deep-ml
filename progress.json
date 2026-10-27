@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:16:39.723Z",
+  "generated_at": "2026-10-27T08:46:25.150Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1661,6 +1661,19 @@
       "path": "math/0132-adam-bias-correction",
       "first_solved_at": "2026-10-27T08:16:36.739Z",
       "last_pushed_at": "2026-10-27T08:16:36.739Z"
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-10-27T08:46:22.159Z",
+      "last_pushed_at": "2026-10-27T08:46:22.159Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
