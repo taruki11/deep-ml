@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**127** solved · 97 problems · 10 labs · 20 math
+**128** solved · 98 problems · 10 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-15 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-09-30 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-25 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Compute a Gradient with Tinygrad Autograd](https://www.deep-ml.com/problems/893) | easy | 2026-10-27 | [solution](problems/0893-compute-a-gradient-with-tinygrad-autograd) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-14 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-10-01 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-01 | [solution](problems/0954-construct-next-token-prediction-targets) |
