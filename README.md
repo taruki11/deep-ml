@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**162** solved · 123 problems · 12 labs · 27 math
+**163** solved · 124 problems · 12 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-10-01 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-10-01 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-09-30 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
+| [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-10-28 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-10-01 | [solution](problems/0944-sliding-window-text-dataset-generator) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-14 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-01 | [solution](problems/0945-token-embedding-lookup-table) |
