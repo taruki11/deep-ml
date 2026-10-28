@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**158** solved · 122 problems · 12 labs · 24 math
+**159** solved · 123 problems · 12 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-27 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-27 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-10-25 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
+| [Bahdanau Additive Attention](https://www.deep-ml.com/problems/1383) | medium | 2026-10-28 | [solution](problems/1383-bahdanau-additive-attention) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-10-22 | [solution](problems/0090-bm25-ranking) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-01 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-01 | [solution](problems/0490-build-scaled-dot-product-attention) |

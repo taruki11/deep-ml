@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:01:25.378Z",
+  "generated_at": "2026-10-28T13:03:40.842Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2006,6 +2006,19 @@
       "last_pushed_at": "2026-10-28T13:01:21.342Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:1383": {
+      "kind": "problem",
+      "id": "1383",
+      "title": "Bahdanau Additive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1383",
+      "path": "problems/1383-bahdanau-additive-attention",
+      "first_solved_at": "2026-10-28T13:03:36.842Z",
+      "last_pushed_at": "2026-10-28T13:03:36.842Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
