@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**160** solved · 123 problems · 12 labs · 25 math
+**161** solved · 123 problems · 12 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -170,6 +170,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-01 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-01 | [solution](math/0003-neural-network-derivatives) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-22 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
+| [Scaled Dot-Product Variance: Why Divide by the Square Root of d](https://www.deep-ml.com/math-problems/134) | medium | 2026-10-28 | [solution](math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-14 | [solution](math/0032-softmax-and-cross-entropy) |
 | [The Constant Error Carousel and Why Gates Are Needed](https://www.deep-ml.com/math-problems/158) | medium | 2026-10-28 | [solution](math/0158-the-constant-error-carousel-and-why-gates-are-needed) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-10-22 | [solution](math/0041-the-em-algorithm) |
