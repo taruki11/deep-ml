@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:31:06.834Z",
+  "generated_at": "2026-10-28T13:37:00.608Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2076,6 +2076,19 @@
       "path": "math/0136-elbo-decomposition-with-gaussian-kl",
       "first_solved_at": "2026-10-28T13:31:02.910Z",
       "last_pushed_at": "2026-10-28T13:31:02.910Z"
+    },
+    "problem:393": {
+      "kind": "problem",
+      "id": "393",
+      "title": "Implement Variational Autoencoder (VAE) Loss (ELBO)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/393",
+      "path": "problems/0393-implement-variational-autoencoder-vae-loss-elbo",
+      "first_solved_at": "2026-10-28T13:36:56.503Z",
+      "last_pushed_at": "2026-10-28T13:36:56.503Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
