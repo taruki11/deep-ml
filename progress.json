@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:25:05.913Z",
+  "generated_at": "2026-10-28T13:31:06.834Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2065,6 +2065,17 @@
       "last_pushed_at": "2026-10-28T13:25:01.978Z",
       "language": "python",
       "lines": 32
+    },
+    "math:136": {
+      "kind": "math",
+      "id": "136",
+      "title": "ELBO Decomposition with Gaussian KL",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/136",
+      "path": "math/0136-elbo-decomposition-with-gaussian-kl",
+      "first_solved_at": "2026-10-28T13:31:02.910Z",
+      "last_pushed_at": "2026-10-28T13:31:02.910Z"
     }
   }
 }

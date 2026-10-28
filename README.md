@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**163** solved · 124 problems · 12 labs · 27 math
+**164** solved · 124 problems · 12 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Convolution Arithmetic and Parameter Sharing](https://www.deep-ml.com/math-problems/116) | medium | 2026-10-27 | [solution](math/0116-convolution-arithmetic-and-parameter-sharing) |
 | [Cubic and Natural Splines: Knots and Degrees of Freedom](https://www.deep-ml.com/math-problems/96) | medium | 2026-10-22 | [solution](math/0096-cubic-and-natural-splines-knots-and-degrees-of-freedom) |
+| [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-10-28 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-14 | [solution](math/0024-information-theory-entropy) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-14 | [solution](math/0038-log-likelihood-gradients) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-10-22 | [solution](math/0042-margins-and-soft-margin-svms) |
