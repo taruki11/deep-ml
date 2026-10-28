@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**153** solved · 118 problems · 12 labs · 23 math
+**154** solved · 118 problems · 12 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-01 | [solution](math/0003-neural-network-derivatives) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-22 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-14 | [solution](math/0032-softmax-and-cross-entropy) |
+| [The Constant Error Carousel and Why Gates Are Needed](https://www.deep-ml.com/math-problems/158) | medium | 2026-10-28 | [solution](math/0158-the-constant-error-carousel-and-why-gates-are-needed) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-10-22 | [solution](math/0041-the-em-algorithm) |
 | [The K-Means Objective and Lloyd's Algorithm](https://www.deep-ml.com/math-problems/120) | medium | 2026-10-22 | [solution](math/0120-the-k-means-objective-and-lloyd-s-algorithm) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-25 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
