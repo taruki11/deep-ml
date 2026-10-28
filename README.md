@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 119 problems · 12 labs · 24 math
+**156** solved · 120 problems · 12 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -122,6 +122,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-10-22 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-02 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Generalized Additive Model by Backfitting](https://www.deep-ml.com/problems/1420) | hard | 2026-10-22 | [solution](problems/1420-generalized-additive-model-by-backfitting) |
+| [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-28 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-22 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-10-22 | [solution](problems/0346-implement-stacking-classifier) |
