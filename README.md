@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**159** solved · 123 problems · 12 labs · 24 math
+**160** solved · 123 problems · 12 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -157,6 +157,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-28 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-15 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-15 | [solution](math/0005-gradient-descent-updates) |
 | [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-27 | [solution](math/0132-adam-bias-correction) |

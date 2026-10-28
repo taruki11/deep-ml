@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:03:40.842Z",
+  "generated_at": "2026-10-28T13:08:23.638Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2019,6 +2019,17 @@
       "last_pushed_at": "2026-10-28T13:03:36.842Z",
       "language": "python",
       "lines": 45
+    },
+    "math:133": {
+      "kind": "math",
+      "id": "133",
+      "title": "Attention as a Soft Dictionary Lookup",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/133",
+      "path": "math/0133-attention-as-a-soft-dictionary-lookup",
+      "first_solved_at": "2026-10-28T13:08:19.786Z",
+      "last_pushed_at": "2026-10-28T13:08:19.786Z"
     }
   }
 }
