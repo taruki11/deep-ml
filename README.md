@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**165** solved · 125 problems · 12 labs · 28 math
+**166** solved · 126 problems · 12 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -100,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-28 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-25 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-22 | [solution](problems/0017-k-means-clustering) |
+| [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-28 | [solution](problems/0227-knowledge-distillation-loss) |
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-10-22 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-28 | [solution](problems/0007-matrix-transformation) |
 | [Mixed-Precision Forward with `autocast`](https://www.deep-ml.com/problems/911) | medium | 2026-10-27 | [solution](problems/0911-mixed-precision-forward-with-autocast) |
