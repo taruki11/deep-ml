@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:33:51.801Z",
+  "generated_at": "2026-10-28T12:44:22.734Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1954,6 +1954,19 @@
       "path": "math/0158-the-constant-error-carousel-and-why-gates-are-needed",
       "first_solved_at": "2026-10-28T12:33:48.040Z",
       "last_pushed_at": "2026-10-28T12:33:48.040Z"
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-10-28T12:44:18.782Z",
+      "last_pushed_at": "2026-10-28T12:44:18.782Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
