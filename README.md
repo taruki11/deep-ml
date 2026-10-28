@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**150** solved · 118 problems · 10 labs · 22 math
+**151** solved · 118 problems · 11 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -140,6 +140,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-10-01 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-10-26 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-10-02 | [solution](labs/0010-design-your-own-attention-mechanism) |
+| [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-10-28 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-10-25 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-10-27 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-10-23 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
