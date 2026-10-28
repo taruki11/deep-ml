@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**152** solved · 118 problems · 12 labs · 22 math
+**153** solved · 118 problems · 12 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -174,6 +174,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-22 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-02 | [solution](math/0025-kl-divergence) |
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-10-22 | [solution](math/0111-local-regression-and-generalized-additive-models) |
+| [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-28 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 
 ---
 

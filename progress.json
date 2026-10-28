@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:55:04.693Z",
+  "generated_at": "2026-10-28T12:30:59.981Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -1932,6 +1932,17 @@
       "last_pushed_at": "2026-10-28T08:55:01.206Z",
       "language": "python",
       "lines": 44
+    },
+    "math:117": {
+      "kind": "math",
+      "id": "117",
+      "title": "Recurrent Networks, Weight Sharing and Vanishing Gradients",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/117",
+      "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
+      "first_solved_at": "2026-10-28T12:30:56.161Z",
+      "last_pushed_at": "2026-10-28T12:30:56.161Z"
     }
   }
 }
