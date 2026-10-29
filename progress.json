@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:39:56.556Z",
+  "generated_at": "2026-10-29T11:16:22.479Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2102,6 +2102,19 @@
       "last_pushed_at": "2026-10-28T14:39:52.540Z",
       "language": "python",
       "lines": 34
+    },
+    "lab:91c76ab2-7d3a-43a7-98ce-385aab6f1691": {
+      "kind": "lab",
+      "id": "91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "title": "Train a Tiny CNN Image Classifier",
+      "difficulty": "hard",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "path": "labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691-train-a-tiny-cnn-image-classifier",
+      "first_solved_at": "2026-10-29T11:16:20.845Z",
+      "last_pushed_at": "2026-10-29T11:16:20.845Z",
+      "language": "python",
+      "lines": 71
     }
   }
 }
