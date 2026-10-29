@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:16:22.479Z",
+  "generated_at": "2026-10-29T14:55:28.709Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2115,6 +2115,19 @@
       "last_pushed_at": "2026-10-29T11:16:20.845Z",
       "language": "python",
       "lines": 71
+    },
+    "problem:1400": {
+      "kind": "problem",
+      "id": "1400",
+      "title": "Magnitude Pruning to a Target Sparsity",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1400",
+      "path": "problems/1400-magnitude-pruning-to-a-target-sparsity",
+      "first_solved_at": "2026-10-29T14:55:28.327Z",
+      "last_pushed_at": "2026-10-29T14:55:28.327Z",
+      "language": "python",
+      "lines": 76
     }
   }
 }

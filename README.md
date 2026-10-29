@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**167** solved · 126 problems · 13 labs · 28 math
+**168** solved · 127 problems · 13 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-10-01 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-02 | [solution](problems/0375-learned-positional-embeddings) |
+| [Magnitude Pruning to a Target Sparsity](https://www.deep-ml.com/problems/1400) | easy | 2026-10-29 | [solution](problems/1400-magnitude-pruning-to-a-target-sparsity) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-28 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-27 | [solution](problems/0146-momentum-optimizer) |
 | [Naive and Seasonal-Naive Forecast Baselines](https://www.deep-ml.com/problems/1382) | easy | 2026-10-22 | [solution](problems/1382-naive-and-seasonal-naive-forecast-baselines) |
