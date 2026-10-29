@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**168** solved · 127 problems · 13 labs · 28 math
+**169** solved · 128 problems · 13 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Naive and Seasonal-Naive Forecast Baselines](https://www.deep-ml.com/problems/1382) | easy | 2026-10-22 | [solution](problems/1382-naive-and-seasonal-naive-forecast-baselines) |
 | [Pad and Truncate Tokenized Sequences](https://www.deep-ml.com/problems/1059) | easy | 2026-10-01 | [solution](problems/1059-pad-and-truncate-tokenized-sequences) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-09-15 | [solution](problems/0940-regex-based-text-tokenizer) |
+| [Reparameterization Trick and the VAE Prior KL](https://www.deep-ml.com/problems/1384) | easy | 2026-10-29 | [solution](problems/1384-reparameterization-trick-and-the-vae-prior-kl) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-28 | [solution](problems/0003-reshape-matrix) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-25 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-28 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
