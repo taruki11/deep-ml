@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**169** solved · 128 problems · 13 labs · 28 math
+**170** solved · 129 problems · 13 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -140,6 +140,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-10-02 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-10-22 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-27 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
+| [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-10-29 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 
 ## Labs
 
