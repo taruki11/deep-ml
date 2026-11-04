@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:23:47.920Z",
+  "generated_at": "2026-11-04T08:25:09.986Z",
   "items": {
     "problem:942": {
       "kind": "problem",
@@ -2178,6 +2178,19 @@
       "path": "math/0454-bayesian-linear-regression-posterior-and-posterior-predictive",
       "first_solved_at": "2026-11-04T08:23:41.145Z",
       "last_pushed_at": "2026-11-04T08:23:41.145Z"
+    },
+    "problem:1817": {
+      "kind": "problem",
+      "id": "1817",
+      "title": "Bayesian Linear Regression: Sequential Posterior and Predictive Bands",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1817",
+      "path": "problems/1817-bayesian-linear-regression-sequential-posterior-and-predictive-bands",
+      "first_solved_at": "2026-11-04T08:25:03.290Z",
+      "last_pushed_at": "2026-11-04T08:25:03.290Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
