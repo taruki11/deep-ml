@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**173** solved · 131 problems · 13 labs · 29 math
+**174** solved · 131 problems · 13 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -172,6 +172,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-27 | [solution](math/0132-adam-bias-correction) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayesian Linear Regression: Posterior and Posterior Predictive](https://www.deep-ml.com/math-problems/454) | medium | 2026-11-04 | [solution](math/0454-bayesian-linear-regression-posterior-and-posterior-predictive) |
+| [Beta-Binomial Posterior Predictive, Plug-in and the Marginal Likelihood](https://www.deep-ml.com/math-problems/386) | medium | 2026-11-04 | [solution](math/0386-beta-binomial-posterior-predictive-plug-in-and-the-marginal-likelihood) |
 | [Convolution Arithmetic and Parameter Sharing](https://www.deep-ml.com/math-problems/116) | medium | 2026-10-27 | [solution](math/0116-convolution-arithmetic-and-parameter-sharing) |
 | [Cubic and Natural Splines: Knots and Degrees of Freedom](https://www.deep-ml.com/math-problems/96) | medium | 2026-10-22 | [solution](math/0096-cubic-and-natural-splines-knots-and-degrees-of-freedom) |
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-10-28 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
