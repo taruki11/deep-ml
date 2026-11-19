@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:32:57.878Z",
+  "generated_at": "2026-11-19T15:44:42.649Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -26,6 +26,17 @@
       "last_pushed_at": "2026-11-19T15:32:57.187Z",
       "language": "python",
       "lines": 64
+    },
+    "math:164": {
+      "kind": "math",
+      "id": "164",
+      "title": "Perplexity as Exponentiated Cross-Entropy",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/164",
+      "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
+      "first_solved_at": "2026-11-19T15:44:42.024Z",
+      "last_pushed_at": "2026-11-19T15:44:42.024Z"
     }
   }
 }
