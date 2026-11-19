@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-19T14:02:14.057Z",
+  "items": {
+    "problem:2208": {
+      "kind": "problem",
+      "id": "2208",
+      "title": "Fit an AR(p) Model with the Yule-Walker Equations and Forecast One Step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/2208",
+      "path": "problems/2208-fit-an-ar-p-model-with-the-yule-walker-equations-and-forecast-one-step",
+      "first_solved_at": "2026-11-19T14:02:09.350Z",
+      "last_pushed_at": "2026-11-19T14:02:09.350Z",
+      "language": "python",
+      "lines": 59
+    }
+  }
+}
