@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:44:42.649Z",
+  "generated_at": "2026-11-19T16:25:56.388Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
       "first_solved_at": "2026-11-19T15:44:42.024Z",
       "last_pushed_at": "2026-11-19T15:44:42.024Z"
+    },
+    "problem:918": {
+      "kind": "problem",
+      "id": "918",
+      "title": "Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/918",
+      "path": "problems/0918-build-a-tiny-gpt",
+      "first_solved_at": "2026-11-19T16:25:55.722Z",
+      "last_pushed_at": "2026-11-19T16:25:55.722Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
