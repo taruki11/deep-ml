@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:02:14.057Z",
+  "generated_at": "2026-11-19T15:32:57.878Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-11-19T14:02:09.350Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:2210": {
+      "kind": "problem",
+      "id": "2210",
+      "title": "Forecast Error Metrics: MAPE, sMAPE and MASE with Their Edge Cases",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/2210",
+      "path": "problems/2210-forecast-error-metrics-mape-smape-and-mase-with-their-edge-cases",
+      "first_solved_at": "2026-11-19T15:32:57.187Z",
+      "last_pushed_at": "2026-11-19T15:32:57.187Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
