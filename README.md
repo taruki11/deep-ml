@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 5 problems · 1 labs · 1 math
+**8** solved · 6 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Forecast Error Metrics: MAPE, sMAPE and MASE with Their Edge Cases](https://www.deep-ml.com/problems/2210) | easy | 2026-11-19 | [solution](problems/2210-forecast-error-metrics-mape-smape-and-mase-with-their-edge-cases) |
 | [Implement Weight Tying Between Embedding and LM Head](https://www.deep-ml.com/problems/1026) | easy | 2026-11-20 | [solution](problems/1026-implement-weight-tying-between-embedding-and-lm-head) |
+| [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-11-20 | [solution](problems/0385-beam-search-decoding) |
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-11-20 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
 | [Fit an AR(p) Model with the Yule-Walker Equations and Forecast One Step](https://www.deep-ml.com/problems/2208) | medium | 2026-11-19 | [solution](problems/2208-fit-an-ar-p-model-with-the-yule-walker-equations-and-forecast-one-step) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-11-19 | [solution](problems/0918-build-a-tiny-gpt) |
