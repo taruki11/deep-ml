@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 3 problems · 0 labs · 1 math
+**5** solved · 3 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Forecast Error Metrics: MAPE, sMAPE and MASE with Their Edge Cases](https://www.deep-ml.com/problems/2210) | easy | 2026-11-19 | [solution](problems/2210-forecast-error-metrics-mape-smape-and-mase-with-their-edge-cases) |
 | [Fit an AR(p) Model with the Yule-Walker Equations and Forecast One Step](https://www.deep-ml.com/problems/2208) | medium | 2026-11-19 | [solution](problems/2208-fit-an-ar-p-model-with-the-yule-walker-equations-and-forecast-one-step) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-11-19 | [solution](problems/0918-build-a-tiny-gpt) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Lowest Bits per Character](https://www.deep-ml.com/labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c) | medium | 2026-11-20 | [solution](labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c-lowest-bits-per-character) |
 
 ## Math
 

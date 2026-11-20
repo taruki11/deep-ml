@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:25:56.388Z",
+  "generated_at": "2026-11-20T09:42:35.593Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "last_pushed_at": "2026-11-19T16:25:55.722Z",
       "language": "python",
       "lines": 60
+    },
+    "lab:7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c": {
+      "kind": "lab",
+      "id": "7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c",
+      "title": "Lowest Bits per Character",
+      "difficulty": "medium",
+      "category": "Language Modeling",
+      "url": "https://www.deep-ml.com/labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c",
+      "path": "labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c-lowest-bits-per-character",
+      "first_solved_at": "2026-11-20T09:42:34.645Z",
+      "last_pushed_at": "2026-11-20T09:42:34.645Z",
+      "language": "python",
+      "lines": 93
     }
   }
 }
