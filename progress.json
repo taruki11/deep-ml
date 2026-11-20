@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:42:35.593Z",
+  "generated_at": "2026-11-20T14:11:54.732Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -63,6 +63,19 @@
       "last_pushed_at": "2026-11-20T09:42:34.645Z",
       "language": "python",
       "lines": 93
+    },
+    "problem:1009": {
+      "kind": "problem",
+      "id": "1009",
+      "title": "Count Trainable Parameters with Weight Tying in a GPT Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1009",
+      "path": "problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model",
+      "first_solved_at": "2026-11-20T14:11:53.767Z",
+      "last_pushed_at": "2026-11-20T14:11:53.767Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
