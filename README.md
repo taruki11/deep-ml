@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 14 problems · 1 labs · 3 math
+**19** solved · 14 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Perplexity as Exponentiated Cross-Entropy](https://www.deep-ml.com/math-problems/164) | easy | 2026-11-19 | [solution](math/0164-perplexity-as-exponentiated-cross-entropy) |
 | [Hybrid Attention: KV-Cache and FLOPs Reduction](https://www.deep-ml.com/math-problems/236) | medium | 2026-11-21 | [solution](math/0236-hybrid-attention-kv-cache-and-flops-reduction) |
+| [Mamba's Constant Inference State versus the Transformer KV Cache](https://www.deep-ml.com/math-problems/318) | medium | 2026-11-21 | [solution](math/0318-mamba-s-constant-inference-state-versus-the-transformer-kv-cache) |
 | [Zero-Order Hold: Discretising a Continuous State Space Model](https://www.deep-ml.com/math-problems/308) | medium | 2026-11-21 | [solution](math/0308-zero-order-hold-discretising-a-continuous-state-space-model) |
 
 ---

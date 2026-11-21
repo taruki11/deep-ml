@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:15:51.651Z",
+  "generated_at": "2026-11-21T15:24:53.357Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -228,6 +228,17 @@
       "last_pushed_at": "2026-11-21T15:15:51.062Z",
       "language": "python",
       "lines": 57
+    },
+    "math:318": {
+      "kind": "math",
+      "id": "318",
+      "title": "Mamba's Constant Inference State versus the Transformer KV Cache",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/318",
+      "path": "math/0318-mamba-s-constant-inference-state-versus-the-transformer-kv-cache",
+      "first_solved_at": "2026-11-21T15:24:52.701Z",
+      "last_pushed_at": "2026-11-21T15:24:52.701Z"
     }
   }
 }
