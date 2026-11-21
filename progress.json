@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:24:10.240Z",
+  "generated_at": "2026-11-21T14:28:15.253Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -191,6 +191,17 @@
       "last_pushed_at": "2026-11-21T14:24:09.636Z",
       "language": "python",
       "lines": 54
+    },
+    "math:308": {
+      "kind": "math",
+      "id": "308",
+      "title": "Zero-Order Hold: Discretising a Continuous State Space Model",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/308",
+      "path": "math/0308-zero-order-hold-discretising-a-continuous-state-space-model",
+      "first_solved_at": "2026-11-21T14:28:14.580Z",
+      "last_pushed_at": "2026-11-21T14:28:14.580Z"
     }
   }
 }
