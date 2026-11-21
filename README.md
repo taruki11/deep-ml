@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 13 problems · 1 labs · 3 math
+**18** solved · 14 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fit an AR(p) Model with the Yule-Walker Equations and Forecast One Step](https://www.deep-ml.com/problems/2208) | medium | 2026-11-19 | [solution](problems/2208-fit-an-ar-p-model-with-the-yule-walker-equations-and-forecast-one-step) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-11-21 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-11-21 | [solution](problems/0390-implement-multiquery-attention-mqa) |
+| [Mamba's Selective Scan: Batched Sequential Reference](https://www.deep-ml.com/problems/1648) | medium | 2026-11-21 | [solution](problems/1648-mamba-s-selective-scan-batched-sequential-reference) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-11-21 | [solution](problems/0388-sliding-window-attention) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-11-19 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-11-21 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |

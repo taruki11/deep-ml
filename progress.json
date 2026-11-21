@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:30:32.772Z",
+  "generated_at": "2026-11-21T15:15:51.651Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -215,6 +215,19 @@
       "last_pushed_at": "2026-11-21T14:30:31.947Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:1648": {
+      "kind": "problem",
+      "id": "1648",
+      "title": "Mamba's Selective Scan: Batched Sequential Reference",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1648",
+      "path": "problems/1648-mamba-s-selective-scan-batched-sequential-reference",
+      "first_solved_at": "2026-11-21T15:15:51.062Z",
+      "last_pushed_at": "2026-11-21T15:15:51.062Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
