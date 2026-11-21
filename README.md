@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 12 problems · 1 labs · 3 math
+**17** solved · 13 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Discretise a Selective SSM: Zero-Order Hold vs Euler](https://www.deep-ml.com/problems/1646) | easy | 2026-11-21 | [solution](problems/1646-discretise-a-selective-ssm-zero-order-hold-vs-euler) |
 | [Forecast Error Metrics: MAPE, sMAPE and MASE with Their Edge Cases](https://www.deep-ml.com/problems/2210) | easy | 2026-11-19 | [solution](problems/2210-forecast-error-metrics-mape-smape-and-mase-with-their-edge-cases) |
 | [Implement Weight Tying Between Embedding and LM Head](https://www.deep-ml.com/problems/1026) | easy | 2026-11-20 | [solution](problems/1026-implement-weight-tying-between-embedding-and-lm-head) |
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-11-20 | [solution](problems/0385-beam-search-decoding) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:28:15.253Z",
+  "generated_at": "2026-11-21T14:30:32.772Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -202,6 +202,19 @@
       "path": "math/0308-zero-order-hold-discretising-a-continuous-state-space-model",
       "first_solved_at": "2026-11-21T14:28:14.580Z",
       "last_pushed_at": "2026-11-21T14:28:14.580Z"
+    },
+    "problem:1646": {
+      "kind": "problem",
+      "id": "1646",
+      "title": "Discretise a Selective SSM: Zero-Order Hold vs Euler",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1646",
+      "path": "problems/1646-discretise-a-selective-ssm-zero-order-hold-vs-euler",
+      "first_solved_at": "2026-11-21T14:30:31.947Z",
+      "last_pushed_at": "2026-11-21T14:30:31.947Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
