@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 8 problems · 1 labs · 2 math
+**12** solved · 9 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-11-20 | [solution](problems/0385-beam-search-decoding) |
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-11-20 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
 | [Fit an AR(p) Model with the Yule-Walker Equations and Forecast One Step](https://www.deep-ml.com/problems/2208) | medium | 2026-11-19 | [solution](problems/2208-fit-an-ar-p-model-with-the-yule-walker-equations-and-forecast-one-step) |
+| [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-11-21 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-11-21 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-11-19 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Implement Llama 3.1 RoPE Frequency Rescaling](https://www.deep-ml.com/problems/1024) | hard | 2026-11-21 | [solution](problems/1024-implement-llama-3-1-rope-frequency-rescaling) |
