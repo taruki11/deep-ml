@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:45:33.564Z",
+  "generated_at": "2026-11-21T13:05:18.850Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -113,6 +113,19 @@
       "path": "math/0236-hybrid-attention-kv-cache-and-flops-reduction",
       "first_solved_at": "2026-11-21T11:45:32.785Z",
       "last_pushed_at": "2026-11-21T11:45:32.785Z"
+    },
+    "problem:1024": {
+      "kind": "problem",
+      "id": "1024",
+      "title": "Implement Llama 3.1 RoPE Frequency Rescaling",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1024",
+      "path": "problems/1024-implement-llama-3-1-rope-frequency-rescaling",
+      "first_solved_at": "2026-11-21T13:05:18.150Z",
+      "last_pushed_at": "2026-11-21T13:05:18.150Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
