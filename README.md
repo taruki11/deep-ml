@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 9 problems · 1 labs · 2 math
+**13** solved · 10 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-11-21 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-11-19 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Implement Llama 3.1 RoPE Frequency Rescaling](https://www.deep-ml.com/problems/1024) | hard | 2026-11-21 | [solution](problems/1024-implement-llama-3-1-rope-frequency-rescaling) |
+| [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-11-21 | [solution](problems/0405-multi-head-latent-attention-mla) |
 
 ## Labs
 
