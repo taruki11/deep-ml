@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:17:48.463Z",
+  "generated_at": "2026-11-21T14:11:58.077Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -165,6 +165,19 @@
       "last_pushed_at": "2026-11-21T13:17:47.634Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:388": {
+      "kind": "problem",
+      "id": "388",
+      "title": "Sliding Window Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/388",
+      "path": "problems/0388-sliding-window-attention",
+      "first_solved_at": "2026-11-21T14:11:57.443Z",
+      "last_pushed_at": "2026-11-21T14:11:57.443Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
