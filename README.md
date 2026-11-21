@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 14 problems · 1 labs · 4 math
+**20** solved · 14 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Lowest Bits per Character](https://www.deep-ml.com/labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c) | medium | 2026-11-20 | [solution](labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c-lowest-bits-per-character) |
+| [Best Language Model with a Fixed-Size Memory](https://www.deep-ml.com/labs/00141453-bba9-434d-98e3-be380b4473fb) | hard | 2026-11-21 | [solution](labs/00141453-bba9-434d-98e3-be380b4473fb-best-language-model-with-a-fixed-size-memory) |
 
 ## Math
 

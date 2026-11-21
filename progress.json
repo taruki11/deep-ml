@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:24:53.357Z",
+  "generated_at": "2026-11-21T15:59:40.811Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -239,6 +239,19 @@
       "path": "math/0318-mamba-s-constant-inference-state-versus-the-transformer-kv-cache",
       "first_solved_at": "2026-11-21T15:24:52.701Z",
       "last_pushed_at": "2026-11-21T15:24:52.701Z"
+    },
+    "lab:00141453-bba9-434d-98e3-be380b4473fb": {
+      "kind": "lab",
+      "id": "00141453-bba9-434d-98e3-be380b4473fb",
+      "title": "Best Language Model with a Fixed-Size Memory",
+      "difficulty": "hard",
+      "category": "Language Modeling",
+      "url": "https://www.deep-ml.com/labs/00141453-bba9-434d-98e3-be380b4473fb",
+      "path": "labs/00141453-bba9-434d-98e3-be380b4473fb-best-language-model-with-a-fixed-size-memory",
+      "first_solved_at": "2026-11-21T15:59:40.195Z",
+      "last_pushed_at": "2026-11-21T15:59:40.195Z",
+      "language": "python",
+      "lines": 183
     }
   }
 }
