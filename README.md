@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 6 problems · 1 labs · 1 math
+**9** solved · 6 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Perplexity as Exponentiated Cross-Entropy](https://www.deep-ml.com/math-problems/164) | easy | 2026-11-19 | [solution](math/0164-perplexity-as-exponentiated-cross-entropy) |
+| [Hybrid Attention: KV-Cache and FLOPs Reduction](https://www.deep-ml.com/math-problems/236) | medium | 2026-11-21 | [solution](math/0236-hybrid-attention-kv-cache-and-flops-reduction) |
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:58:22.264Z",
+  "generated_at": "2026-11-21T11:45:33.564Z",
   "items": {
     "problem:2208": {
       "kind": "problem",
@@ -102,6 +102,17 @@
       "last_pushed_at": "2026-11-20T16:58:21.515Z",
       "language": "python",
       "lines": 25
+    },
+    "math:236": {
+      "kind": "math",
+      "id": "236",
+      "title": "Hybrid Attention: KV-Cache and FLOPs Reduction",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/236",
+      "path": "math/0236-hybrid-attention-kv-cache-and-flops-reduction",
+      "first_solved_at": "2026-11-21T11:45:32.785Z",
+      "last_pushed_at": "2026-11-21T11:45:32.785Z"
     }
   }
 }
